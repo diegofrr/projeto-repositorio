@@ -8,7 +8,7 @@ export default function RoutesApp() {
     return(
         <BrowserRouter>
             <Routes>
-                <Route path="/home/" element={<Main />} />
+                <Route exact path="/" element={<Main />} />
                 <Route path="/repositorio/:repo_name" element={<Repositorio />} />
             </Routes>
         </BrowserRouter>

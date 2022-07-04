@@ -1,8 +1,8 @@
 {
-  "name": "projeto-repositorios",
+  "name": "repos_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diegofrr.github.io/projeto-repositorios",
+  "homepage": "https://diegofrr.github.io/repos_project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

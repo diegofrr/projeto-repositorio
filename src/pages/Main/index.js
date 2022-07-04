@@ -105,7 +105,7 @@ export default function Main() {
                             <IoTrashBin size={16} />
                         </DeleteButton>
                         <span>{repo.name}</span>
-                        <Link to={`/projeto-repositorios/repositorio/${encodeURIComponent(repo.name)}`}>
+                        <Link to={`/repos_project/repositorio/${encodeURIComponent(repo.name)}`}>
                             <IoEllipsisVertical size={20} />
                         </Link>
                     </li>

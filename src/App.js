@@ -8,8 +8,9 @@ export default function App() {
       <GlobalStyled />
       <RoutesApp />
       <ToastContainer
-      position='bottom-left'
-      autoClose={3000} />
+        position='bottom-left'
+        autoClose={3000}
+      />
     </>
   )
 };

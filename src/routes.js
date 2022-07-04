@@ -8,8 +8,8 @@ export default function RoutesApp() {
     return(
         <BrowserRouter>
             <Routes>
-                <Route exact path="/" element={<Main />} />
-                <Route path="/repositorio/:repo_name" element={<Repositorio />} />
+                <Route path="/projeto-repositorios/" element={<Main />} />
+                <Route path="/projeto-repositorios/repositorio/:repo_name" element={<Repositorio />} />
             </Routes>
         </BrowserRouter>
     )

@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/projeto-repositorios/static/css/main.073c9b0a.css",
-    "main.js": "/projeto-repositorios/static/js/main.f821d8e0.js",
-    "static/js/787.88d70cc7.chunk.js": "/projeto-repositorios/static/js/787.88d70cc7.chunk.js",
-    "static/media/logo.svg": "/projeto-repositorios/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/projeto-repositorios/static/css/main.039bf95e.css",
+    "main.js": "/projeto-repositorios/static/js/main.143a67ee.js",
+    "static/media/Poppins-Thin.ttf": "/projeto-repositorios/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/Poppins-Light.ttf": "/projeto-repositorios/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/projeto-repositorios/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/projeto-repositorios/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
     "index.html": "/projeto-repositorios/index.html",
-    "main.073c9b0a.css.map": "/projeto-repositorios/static/css/main.073c9b0a.css.map",
-    "main.f821d8e0.js.map": "/projeto-repositorios/static/js/main.f821d8e0.js.map",
-    "787.88d70cc7.chunk.js.map": "/projeto-repositorios/static/js/787.88d70cc7.chunk.js.map"
+    "main.039bf95e.css.map": "/projeto-repositorios/static/css/main.039bf95e.css.map",
+    "main.143a67ee.js.map": "/projeto-repositorios/static/js/main.143a67ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f821d8e0.js"
+    "static/css/main.039bf95e.css",
+    "static/js/main.143a67ee.js"
   ]
 }

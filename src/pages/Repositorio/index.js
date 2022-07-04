@@ -69,7 +69,7 @@ export default function Repositorio() {
 
     return (
         <Container>
-            <BackButton to='/'>
+            <BackButton to='/projeto-repositorios/'>
                 <IoReturnUpBack size={20} />
             </BackButton>
             <Owner>

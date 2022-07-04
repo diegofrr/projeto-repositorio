@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/projeto-repositorios/static/css/main.039bf95e.css",
-    "main.js": "/projeto-repositorios/static/js/main.143a67ee.js",
-    "static/media/Poppins-Thin.ttf": "/projeto-repositorios/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
-    "static/media/Poppins-Light.ttf": "/projeto-repositorios/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
-    "static/media/Poppins-Regular.ttf": "/projeto-repositorios/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/projeto-repositorios/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
-    "index.html": "/projeto-repositorios/index.html",
-    "main.039bf95e.css.map": "/projeto-repositorios/static/css/main.039bf95e.css.map",
-    "main.143a67ee.js.map": "/projeto-repositorios/static/js/main.143a67ee.js.map"
+    "main.css": "/projeto-repositorios/main/static/css/main.039bf95e.css",
+    "main.js": "/projeto-repositorios/main/static/js/main.a20c75a9.js",
+    "static/media/Poppins-Thin.ttf": "/projeto-repositorios/main/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/Poppins-Light.ttf": "/projeto-repositorios/main/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/projeto-repositorios/main/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/projeto-repositorios/main/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "index.html": "/projeto-repositorios/main/index.html",
+    "main.039bf95e.css.map": "/projeto-repositorios/main/static/css/main.039bf95e.css.map",
+    "main.a20c75a9.js.map": "/projeto-repositorios/main/static/js/main.a20c75a9.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.143a67ee.js"
+    "static/js/main.a20c75a9.js"
   ]
 }
